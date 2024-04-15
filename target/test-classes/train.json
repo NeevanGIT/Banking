@@ -1,0 +1,23 @@
+{
+	
+	"trainname":"Brindavan Express",
+	"trainno":123456,	
+	"starting":"Bangalore",
+	"ending":"Chennai",
+	"destinations":	["Katpadi","Walaja","Arakkonam","Central"],
+	"passengerDetail": [
+		       {
+		    	"PassengerName":"Naveen",
+		    	"dob":19091995,
+		    	"gender":"Male",
+		    	"phoneno":9944764047
+	           }]	    
+	        
+  	
+			
+	}	
+			
+		
+	
+	
+	
